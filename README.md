@@ -1,7 +1,7 @@
 # Graffito
 
 > Speak softly, but carry a big can of paint.
-> - Attributed to Banksy
+> _Attributed to Banksy_
 
 ## Installtion
 
