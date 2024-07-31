@@ -16,6 +16,8 @@ from typing import cast
 # of wrapped functions:
 # https://stackoverflow.com/questions/4887081/get-the-name-of-a-decorated-function
 
+# The following only happens for classes if the class itself is decorated. That's a
+# bit of a bummer. Cant we force it?
 def graffiti(f):
     @wraps(f)
     def wrapper(*args, **kwargs):
