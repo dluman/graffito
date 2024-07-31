@@ -39,7 +39,7 @@ Executing the program will return:
 {'test': ['func_test']}
 ```
 This is a bespoke module. However, let's say that we wanted to characterize functions of a certain
-signature with a decorator so that we could handle them the same way. Let's say:
+signature with a decorator so that we could handle them the same way. Hmmm. An example!
 ```python
 from graffito.tags import graffiti, get_tags
 
