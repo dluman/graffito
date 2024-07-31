@@ -2,7 +2,7 @@
 
 > Speak softly, but carry a big can of paint.
 >
-> _Attributed to Banksy_
+> _Banksy_
 
 ## Installtion
 

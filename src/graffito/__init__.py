@@ -1,1 +1,1 @@
-from .tags import tag
+from .tags import graffiti
