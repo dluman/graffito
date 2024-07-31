@@ -1,5 +1,7 @@
 # Graffito
 
+[![PyPI version](https://img.shields.io/pypi/v/graffito)](https://pypi.org/project/graffito/)
+
 > Speak softly, but carry a big can of paint.
 >
 > _Banksy_
